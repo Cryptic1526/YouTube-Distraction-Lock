@@ -2,7 +2,7 @@
 // @name         YouTube Distraction Lock
 // @namespace    http://tampermonkey.net/
 // @version      1.3
-// @description  Lock YouTube with a Todo list, so your forced into doing all your tasks before you can continue watching YouTube :)
+// @description  Lock YouTube with a Todo list, so you're forced into doing all your tasks before you can continue watching YouTube :)
 // @author       Cryptic1526
 // @match        https://www.youtube.com/*
 // @grant        none
